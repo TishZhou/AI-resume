@@ -1,5 +1,0 @@
-streamlit
-openai>=1.6.0
-chromadb
-PyPDF2
-python-dotenv
